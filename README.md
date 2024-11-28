@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27-11-2024
+## Register Number: 24009885
+## Name: C. Dhanush
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,42 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+Alumni Networking Hub: Create dedicated sections for alumni to network based on shared interests, industries, or geographic locations. Provide tools for messaging, group discussions, and professional collaboration, fostering long-term connections and mentorship opportunities.
 
+Donation Portal: Integrate a secure, easy-to-use donation system that supports one-time and recurring donations. Highlight specific campaigns (e.g., scholarships, infrastructure) to guide alumni contributions, ensuring seamless support for institutional growth.
+
+Job Portal with Resume Matchmaking: Allow alumni to post and browse job listings based on their career interests and locations. Implement AI-driven resume matching to recommend relevant job opportunities for alumni, helping them advance their careers.
+
+Success Story Tracking: Feature a section for alumni to share their achievements and milestones, whether in their careers or social contributions. Display these success stories to inspire current students and strengthen alumni pride and engagement.
+
+Event Management System: Offer tools for organizing and managing alumni events such as reunions, workshops, and professional development sessions. Integrate event registration, notifications, and virtual event hosting features to enhance participation and connection.
 
 ## Proposed Solution / Architecture Diagram
-
+![WhatsApp Image 2024-11-27 at 22 50 48_330a9677](https://github.com/user-attachments/assets/902e2480-902e-4cb6-a8c5-90c24303d06e)
 
 ## Use Cases
-
+![WhatsApp Image 2024-11-27 at 22 50 49_8ce27059](https://github.com/user-attachments/assets/366e406c-864f-4156-94a5-05307e06d1b9)
 
 ## Technology Stack
 
+| *Component*               | *Technologies*                                       |
+|-----------------------------|--------------------------------------------------------|
+| *Frontend*                | React.js / Angular / Vue.js                            |
+| *Backend*                 | Node.js (Express.js) / Django (Python) / Ruby on Rails |
+| *Database*                | MySQL / PostgreSQL / MongoDB                           |
+| *User Authentication*     | Auth0 / Firebase / Passport.js                         |
+| *Notification Service*    | Twilio / SendGrid                                      |
+| *Event Management*        | FullCalendar / Eventbrite API                          |
+| *Payment Gateway*         | Stripe / PayPal                                        |
+| *Hosting & Cloud Services*| AWS / Google Cloud / Microsoft Azure                   |
 
 ## Dependencies
 
+| *Dependency*                | *Duration*  | *Budget*      |
+|-------------------------------|---------------|-----------------|
+| *Mapping Service*            | 10 days       | ₹50,000        |
+| *Data Collection*            | 10 days       | ₹30,000        |
+| *Payment Gateway Integration*| 15 days       | ₹40,000        |
+| *User Authentication System* | 8 days        | ₹20,000        |
+| *Event Management System*    | 12 days       | ₹60,000        |
+| *Hosting & Cloud Services*   | Ongoing       | ₹100,000       |
